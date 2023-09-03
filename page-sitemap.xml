@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on September 3, 2023 at 9:41 am by All in One SEO v4.4.5.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2023-02-23T09:45:08+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/%d9%83%d9%8a%d9%81-%d8%a3%d8%b3%d8%a7%d8%b9%d8%af%d8%9f/]]></loc>
+		<lastmod><![CDATA[2023-02-23T09:43:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/%d8%b9%d9%86-%d8%a7%d9%84%d9%83%d8%a7%d8%b1%d8%ab%d8%a9/]]></loc>
+		<lastmod><![CDATA[2023-02-15T14:22:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/02/earthquake-turkey-syria-2023.02.6.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/02/Horizontal_offsets_from_Sentinel-2.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/the-disaster/]]></loc>
+		<lastmod><![CDATA[2023-02-10T14:47:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/02/earthquake-turkey-syria-2023.02.6.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/about/]]></loc>
+		<lastmod><![CDATA[2023-02-10T14:33:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9/]]></loc>
+		<lastmod><![CDATA[2023-02-09T21:14:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
